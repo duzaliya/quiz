@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+  <question>
+    <text>Сколько пальцев на ногах человека?</text>
+    <variants>
+      <variant>20</variant>
+      <variant>5</variant>
+      <variant right="true">10</variant>
+    </variants>
+    <points>5</points>
+    <response_time>7</response_time>
+  </question>
+  <question>
+    <text>Спутник Земли -</text>
+    <variants>
+      <variant>Солнце</variant>
+      <variant>Солнечная система</variant>
+      <variant right="true">Луна</variant>
+    </variants>
+    <points>10</points>
+    <response_time>10</response_time>
+  </question>
+  <question>
+    <text>Что является ориентиром для моряка в море?</text>
+    <variants>
+      <variant>Солнце</variant>
+      <variant>Горизонт</variant>
+      <variant right="true">Полярная звезда</variant>
+    </variants>
+    <points>15</points>
+    <response_time>20</response_time>
+  </question>
+</questions>
