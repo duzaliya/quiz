@@ -30,10 +30,4 @@ class Quiz
   def finished?
     @question_number == @questions.size
   end
-
-  def time_is_over
-    <<~OVER
-      Время вышло!
-    OVER
-  end
 end

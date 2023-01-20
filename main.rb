@@ -17,7 +17,7 @@ until quiz.finished?
 
   time_new = Time.now
   if time < time_new
-    puts quiz.time_is_over
+    puts "Время вышло!"
     break
   end
 
